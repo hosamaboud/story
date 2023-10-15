@@ -1,0 +1,5 @@
+hi welcome in my first learning version control 
+1- use get init to install git 
+2-use git add to added this file to staging area
+
+3-use git status to look if this file add or not
