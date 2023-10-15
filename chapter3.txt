@@ -1,0 +1,4 @@
+we need to create a remote repository so 
+1- create repository in git hub  
+2- use: git remote add (name):origin(url)copy it from git hub
+3- use: git push -u (remote name )origin (branch name)main 

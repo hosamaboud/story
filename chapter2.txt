@@ -1,0 +1,2 @@
+1- use git commit to create a local repository
+2- we have a local repository in folder .get 
