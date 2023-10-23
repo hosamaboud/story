@@ -1,2 +1,2 @@
 how to create a new branch 
-aadd,mnll juoihyo fgiayu
+how to rebase main into bugFix
